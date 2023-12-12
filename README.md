@@ -1,6 +1,18 @@
 # Use Github Action to compile Recovery
 
-- Support ~~OFRP~~, SHRP, TWRP compilation and production
+- Support TWRP, SHRP compilation and production
+
+---
+
+## Python 2 in Debian (Ubuntu) has been removed. If you are working on Android 8.1 and below, use *Recovery Build (Legacy)*
+
+---
+
+## OrangeFox is [here](https://github.com/azwhikaru/Action-OFRP-Builder)
+
+---
+
+## Report script issues only, questions about your device may not be responded
 
 ---
 
@@ -117,5 +129,4 @@ Can be downloaded at [Release](../../releases)
 ## Remark
 
 #### TeamWin Recovery Project: https://github.com/minimal-manifest-twrp
-#### OrangeFox Recovery Project: https://gitlab.com/OrangeFox/Manifest
-#### SKYHAWK Recovery Project: https://github.com/SHRP/platform_manifest_twrp_omni
+#### SKYHAWK Recovery Project: https://github.com/SHRP/manifest
