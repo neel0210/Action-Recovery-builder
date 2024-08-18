@@ -14,15 +14,15 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/paulowesll/android_device_samsung_m52xq-twrp.git'
+        default: 'https://github.com/neel0210/twrp_device_samsung_a226b.git'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'twrp-12.1'
+        default: 'twrp-12.2'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/samsung/m52xq'
+        default: 'device/samsung/a22x'
       COMMON_TREE_URL:
         description: 'COMMON_TREE_URL (if no common tree, leave blank)'
         required: false
@@ -32,11 +32,11 @@ on:
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'm52xq'
+        default: 'a22x'
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'twrp_m52xq'
+        default: 'twrp_a22x'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
